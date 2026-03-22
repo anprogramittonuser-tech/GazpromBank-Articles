@@ -1,0 +1,21 @@
+.btn {
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgba(43, 49, 67, 1);
+    color: #FFF;
+    font-family: "Noto Sans", "Arial", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 16px;
+    padding: 12px 20px;
+}
+
+.btn--xs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: none;
+    padding: 0;
+}
